@@ -1,6 +1,5 @@
 package com.fpinkotlin.functions.exercise03
 
-
 class Compose
 
 fun square(n: Int) = n * n
